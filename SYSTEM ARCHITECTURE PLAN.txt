@@ -1,0 +1,14 @@
+SYSTEM ARCHITECTURE PLAN
+
+1. Sensor Module
+   - readIMUSensor()
+
+2. Control Module
+   - calculateMotorAdjustment()
+
+3. Safety Module
+   - checkTiltFault()
+
+4. Main Loop
+   - while(1)
+   - state management
