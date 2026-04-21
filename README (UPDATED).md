@@ -72,4 +72,4 @@ State: IDLE → ACTIVE
 
 ## Author
 
-Oguz Mermer — Computer Engineering Student, University of North Texas
+Oguz Mermer
